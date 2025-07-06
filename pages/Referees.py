@@ -28,3 +28,4 @@ with col2_1:
     st.write("Email Address : johndoe@gmail.com")
     st.write("Phone Number : 0756348123")
     st.write("She has served as a ...")
+
