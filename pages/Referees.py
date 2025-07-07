@@ -27,5 +27,5 @@ with col2_1:
     st.write("John Doe")
     st.write("Email Address : johndoe@gmail.com")
     st.write("Phone Number : 0756348123")
-    st.write("She has served as a ...")
+    st.write("He has served as a ...")
 

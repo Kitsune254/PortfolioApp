@@ -8,3 +8,8 @@ st.set_page_config(
 )
 
 st.title("Projects")
+
+st.header("1.")
+st.subheader("Rock Paper Scissors Game")
+st.write("This is the classic rock paper scissors game. I coded this using Java")
+st.write("https://github.com/Kitsune254/RockPaperScissors")
